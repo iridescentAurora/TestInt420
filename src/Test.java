@@ -5,5 +5,6 @@ public class Test {
     int tax;
     public static void main(String arg[]) {
         System.out.println("Samiul Islam");
+        int tax2;
     }
 }
